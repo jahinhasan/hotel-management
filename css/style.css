@@ -1,0 +1,21 @@
+
+body.dashboard-bg {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  color: white;
+}
+
+body.form-bg {
+  background: linear-gradient(135deg, #42275a, #734b6d);
+}
+
+body.rooms-bg {
+  background: linear-gradient(135deg, #11998e, #38ef7d);
+}
+
+body.reservation-bg {
+  background: linear-gradient(135deg, #ff9966, #ff5e62);
+}
+
+body.manager-bg {
+  background: linear-gradient(135deg, #4568dc, #b06ab3);
+}
